@@ -1,4 +1,5 @@
-# <🌸hello world>
+<h1 align="center">> hey there, becca here!</h1>
+<h3 align="center">currently: probably debugging...</h3>
 
 <!--
 **beccawatts/beccawatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
