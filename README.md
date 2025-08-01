@@ -1,7 +1,7 @@
 <h1>> 👋🏻 hey there, becca here!</h1>
 <h3>i'm probably debugging...</h3>
 
-<table border="0">
+<table>
   <tr>
     <td align="justify">🎓 i'm a second year comp sci undergrad at obu. </br></br>i have a passion for both stem and the arts, eventually 
       leading me down the path of software development -- which is, in my opinion, the perfect fusion of both. <br/><br/>
@@ -19,36 +19,35 @@
 
 </br>
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=neon"
-          media="(prefers-color-scheme: dark)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source
-          srcset="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
-          media="(prefers-color-scheme: light)", "(prefers-color-scheme: no-preference)"
-        />
-        <source
-          srcset="https://streak-stats.demolab.com?user=beccawatts&theme=neon&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
-          media="(prefers-color-scheme: dark)"
-        />
-        <img src="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      width="300px"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=neon"
+      media="(prefers-color-scheme: dark)"
+      width="300px"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+      media="(prefers-color-scheme: light)", "(prefers-color-scheme: no-preference)"
+      width="320px"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=beccawatts&theme=neon&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
+      media="(prefers-color-scheme: dark)"
+      width="320px"
+    />
+    <img src="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
+  </picture>
+</div>
 
 
 
