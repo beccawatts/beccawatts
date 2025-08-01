@@ -28,6 +28,7 @@
 <div align="center">
   <h3>connect with me</h3>
   <a href="https://www.instagram.com/beccaw.dev/"><img src="https://cdn.freebiesupply.com/images/large/2x/instagram-logo-gradient-transparent.png" width="50"/></a>
+  <a href="www.linkedin.com/in/becca-watts-6a77b1353"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="50" /></a>
 </div>
 
 </br>
