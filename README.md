@@ -1,13 +1,21 @@
+<style>
+  table,
+  tr,
+  td {
+    border: none;
+  }
+</style>
+
 <h1>> 👋🏻 hey there, becca here!</h1>
 <h3>i'm probably debugging...</h3>
 
 <table>
   <tr>
-    <th align="justify">🎓 i'm a second year comp sci undergrad at obu. </br></br>i have a passion for both stem and the arts, eventually 
+    <td align="justify">🎓 i'm a second year comp sci undergrad at obu. </br></br>i have a passion for both stem and the arts, eventually 
       leading me down the path of software development -- which is, in my opinion, the perfect fusion of both. <br/><br/>
       if i'm not coding, you can probably find me falling down a research rabbit hole, watching anime, doing my makeup, 
-      or grinding for stellar jades!</th>
-    <th><img src="https://media.tenor.com/5Bcl2El0MD4AAAAi/phew-rebecca.gif" width="200" align="right"/></th>
+      or grinding for stellar jades!</td>
+    <td><img src="https://media.tenor.com/5Bcl2El0MD4AAAAi/phew-rebecca.gif" width="200" align="right"/></td>
   </tr>
 </table>
 
@@ -21,7 +29,7 @@
 
 <table>
   <tr>
-    <th>
+    <td>
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose"
@@ -33,8 +41,8 @@
         />
         <img src="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose" />
       </picture>
-    </th>
-    <th>
+    </td>
+    <td>
       <picture>
         <source
           srcset="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
@@ -46,7 +54,7 @@
         />
         <img src="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
       </picture>
-    </th>
+    </td>
   </tr>
 </table>
 
