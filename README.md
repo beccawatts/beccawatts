@@ -8,7 +8,7 @@
       leading me down the path of software development -- which is, in my opinion, the perfect fusion of both. <br/><br/>
       if i'm not coding, you can probably find me falling down a research rabbit hole, watching anime, doing my makeup, 
       or grinding for stellar jades.</th>
-    <th><img src="https://media.tenor.com/5Bcl2El0MD4AAAAi/phew-rebecca.gif" width="250" align="right"/></th>
+    <th><img src="https://media.tenor.com/5Bcl2El0MD4AAAAi/phew-rebecca.gif" width="200" align="right"/></th>
   </tr>
 </table>
 
