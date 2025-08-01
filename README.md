@@ -14,17 +14,6 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=neon"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose" />
-  </picture>
-  <picture>
-    <source
       srcset="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
       media="(prefers-color-scheme: light)", "(prefers-color-scheme: no-preference)"
     />
@@ -35,6 +24,21 @@
     <img src="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=neon"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose" />
+  </picture>
+</p>
+
 
 
 
