@@ -1,11 +1,3 @@
-<style>
-  table,
-  tr,
-  td {
-    border: none;
-  }
-</style>
-
 <h1>> 👋🏻 hey there, becca here!</h1>
 <h3>i'm probably debugging...</h3>
 
