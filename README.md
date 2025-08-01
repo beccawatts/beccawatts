@@ -24,12 +24,12 @@
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      width="370px"
+      width="390px"
     />
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=neon"
       media="(prefers-color-scheme: dark)"
-      width="370px"
+      width="390px"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose" />
   </picture>
@@ -38,12 +38,12 @@
     <source
       srcset="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
       media="(prefers-color-scheme: light)", "(prefers-color-scheme: no-preference)"
-      width="390px"
+      width="410px"
     />
     <source
       srcset="https://streak-stats.demolab.com?user=beccawatts&theme=neon&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
       media="(prefers-color-scheme: dark)"
-      width="390px"
+      width="410px"
     />
     <img src="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
   </picture>
