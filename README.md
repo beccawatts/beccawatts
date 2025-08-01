@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<p align="center">
+<div align="center">
   <picture>
     <source
       srcset="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true"
@@ -23,7 +23,7 @@
     />
     <img src="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
   </picture>
-</p>
+</div>
 
 <div align="center">
   <h3>🫶🏻 connect with me</h3>
