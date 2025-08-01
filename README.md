@@ -26,8 +26,8 @@
 </p>
 
 <div align="center">
-<h3>connect with me</h3>
-<button type="button" href="https://www.instagram.com/beccaw.dev/"><img src="https://cdn.freebiesupply.com/images/large/2x/instagram-logo-gradient-transparent.png" width="50"/></button>
+  <h3>connect with me</h3>
+  <button href="https://www.instagram.com/beccaw.dev/"><img src="https://cdn.freebiesupply.com/images/large/2x/instagram-logo-gradient-transparent.png" width="50"/></button>
 </div>
 
 </br>
