@@ -26,7 +26,7 @@
 </p>
 
 <div align="center">
-  <h3>connect with me</h3>
+  <h3>🫶🏻 connect with me</h3>
   <a href="https://www.instagram.com/beccaw.dev/"><img src="https://cdn.freebiesupply.com/images/large/2x/instagram-logo-gradient-transparent.png" width="55"/></a>
   <a href="mailto:b.watts19@outlook.com"><img src="https://www.iconsdb.com/icons/preview/deep-pink/email-5-xxl.png" width="40" /></a>
 </div>
