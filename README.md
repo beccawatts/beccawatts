@@ -1,7 +1,7 @@
 <h1>> 👋🏻 hey there, becca here!</h1>
 <h3>i'm probably debugging...</h3>
 
-<table>
+<table border="0">
   <tr>
     <td align="justify">🎓 i'm a second year comp sci undergrad at obu. </br></br>i have a passion for both stem and the arts, eventually 
       leading me down the path of software development -- which is, in my opinion, the perfect fusion of both. <br/><br/>
