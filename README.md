@@ -1,13 +1,12 @@
 <h1>> 👋🏻 hey there, becca here!</h1>
 <h3>i'm probably debugging...</h3>
 
-
 <table>
   <tr>
-    <th align="justify">i'm a second year comp sci undergrad at obu! i have a passion for both stem and the arts, eventually 
+    <th align="justify">🎓 i'm a second year comp sci undergrad at obu. </br></br>i have a passion for both stem and the arts, eventually 
       leading me down the path of software development -- which is, in my opinion, the perfect fusion of both. <br/><br/>
       if i'm not coding, you can probably find me falling down a research rabbit hole, watching anime, doing my makeup, 
-      or grinding for stellar jades.</th>
+      or grinding for stellar jades!</th>
     <th><img src="https://media.tenor.com/5Bcl2El0MD4AAAAi/phew-rebecca.gif" width="200" align="right"/></th>
   </tr>
 </table>
