@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose"
