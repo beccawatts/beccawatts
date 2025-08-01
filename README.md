@@ -12,7 +12,7 @@
 </table>
 
 <p>
-  <picture width="50%">
+  <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=beccawatts&show_icons=true&theme=rose"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
