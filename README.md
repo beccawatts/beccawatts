@@ -1,5 +1,9 @@
-<h1 align="center">> hey there, becca here!</h1>
-<h3 align="center">i'm probably debugging...</h3>
+<h1>> hey there, becca here!</h1>
+<h3>i'm probably debugging...</h3>
+
+i'm a second year comp sci undergrad at obu! i have a passion for both stem and the arts, eventually leading me down the path of software development -- which is, in my opinion, the perfect fusion of both.
+
+<img src="https://media.tenor.com/5Bcl2El0MD4AAAAi/phew-rebecca.gif" width="200" align="right"/>
 
 <!--
 **beccawatts/beccawatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
