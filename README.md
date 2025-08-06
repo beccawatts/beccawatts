@@ -49,6 +49,8 @@
   </picture>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=beccawatts&theme=dracula)](https://git.io/streak-stats)
+
 
 
 
