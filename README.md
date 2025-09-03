@@ -5,7 +5,7 @@
   <tr>
     <td align="justify">🎓 <strong>i'm a second year comp sci undergrad at obu. </br></br>i have a passion for both stem and the arts, eventually 
       leading me down the path of software development -- which is, in my opinion, the perfect fusion of both.</strong> <br/><br/>
-      <strong>if i'm not coding, you can probably find me falling down a research rabbit hole, watching anime, doing my makeup, 
+      <strong>if i'm not coding, you can probably find me falling down a research rabbit hole, watching anime, 
       or grinding for stellar jades!</strong></td>
     <td><img src="https://media.tenor.com/5Bcl2El0MD4AAAAi/phew-rebecca.gif" width="200" align="right"/></td>
   </tr>
