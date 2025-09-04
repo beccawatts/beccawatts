@@ -13,11 +13,18 @@
 
 <div align="center">
   <h3>🫶🏻 connect with me</h3>
-  <a href="https://www.instagram.com/beccaw.dev/"><img src="https://cdn.freebiesupply.com/images/large/2x/instagram-logo-gradient-transparent.png" width="55"/></a>
-  <a href="mailto:b.watts19@outlook.com"><img src="https://www.iconsdb.com/icons/preview/deep-pink/email-5-xxl.png" width="40" /></a>
+  <a href="https://www.instagram.com/beccaw.dev/"><img src="https://img.shields.io/badge/-Instagram-FF0069?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:b.watts19@outlook.com"><img src="https://img.shields.io/badge/-Email Me-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </div>
 
 </br>
+
+<h3 align="center">👾 my languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+</p>
 
 <div align="center">
   <picture>
@@ -48,7 +55,6 @@
     <img src="https://streak-stats.demolab.com?user=beccawatts&theme=rose&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" alt="GitHub Streak" />
   </picture>
 </div>
-
 
 
 
