@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3>🫶🏻 connect with me</h3>
-  <a href="https://www.instagram.com/beccaw.dev/"><img src="https://img.shields.io/badge/-Instagram-FF0069?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.instagram.com/beccaw.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0069?logo=instagram&logoColor=white&style=for-the-badge"/></a>
   <a href="mailto:b.watts19@outlook.com"><img src="https://img.shields.io/badge/-Email Me-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </div>
 
