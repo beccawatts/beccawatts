@@ -23,6 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript%20-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Flask%20-3BABC3?logo=flask&logoColor=white&style=for-the-badge" />
 </p>
